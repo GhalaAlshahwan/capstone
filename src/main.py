@@ -1,2 +1,1 @@
-print('Hello Capstone')
-print('src code file')
+# src code file

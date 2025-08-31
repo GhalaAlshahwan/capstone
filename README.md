@@ -4,7 +4,7 @@
 3. Backend: Node.js (Express.js) + SQLite 
 4. Frontend: React (Typescript, Tailwind CSS, Vite, Shadcn)
 
-IDES: VSC, Arduino IDE.
+IDEs: VSC, Arduino IDE.
 
    # Libraries/Tools:
       # Raspberry Pi:

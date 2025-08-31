@@ -20,7 +20,7 @@ IDEs: VSC, Arduino IDE.
 
    *Node.js + npm*
       
-   * Express: server (handles incoming requests and responses from the request made via python)
+   * Express: server (handles incoming requests and responses from the request made via python) - API 
       
    * Sqlite: stores logs locally (raspberry pi)
       
@@ -28,7 +28,7 @@ IDEs: VSC, Arduino IDE.
       
    Installed in project folder.
      
-   Data handling flow: Python script -> Node.js (reads/writes into the db) -> Sqlite (detection_log.db on Pi) -> React fetches from Node.js via API call NOT the db itself. 
+   Data handling flow: Python script -> Node.js (reads/writes into the db) -> Sqlite (detection_log.db on Pi) -> React fetches from Node.js via an API call NOT the db itself. 
    
      
    # Frontend:

@@ -7,7 +7,7 @@
 IDEs: VSC, Arduino IDE.
 
    # Libraries/Tools:
-      # Raspberry Pi:
+   # Raspberry Pi:
       
       * OpenCV: image capture (alr did a prototype of this last sem)
       
@@ -16,7 +16,7 @@ IDEs: VSC, Arduino IDE.
       * Requests: sends HTTP req to node.js (backend) via POST
    
    
-      # Backend:
+   # Backend:
 
       *Node.js + npm*
       
@@ -31,7 +31,7 @@ IDEs: VSC, Arduino IDE.
    Data handling flow: Python script -> Node.js (reads/writes into the db) -> Sqlite (detection_log.db on Pi) -> React fetches from Node.js via API call NOT the db itself. 
    
      
-      # Frontend:
+   # Frontend:
       
       * React (node.js + npm)
       

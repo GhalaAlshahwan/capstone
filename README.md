@@ -9,22 +9,22 @@ IDEs: VSC, Arduino IDE.
    # Libraries/Tools:
    # Raspberry Pi:
       
-      * OpenCV: image capture (alr did a prototype of this last sem)
+   * OpenCV: image capture (alr did a prototype of this last sem)
       
-      * Numpy: array operations (masks + color schemes -> used in last sem prototype as well)
+   * Numpy: array operations (masks + color schemes -> used in last sem prototype as well)
       
-      * Requests: sends HTTP req to node.js (backend) via POST
+   * Requests: sends HTTP req to node.js (backend) via POST
    
    
    # Backend:
 
-      *Node.js + npm*
+   *Node.js + npm*
       
-      * Express: server (handles incoming requests and responses from the request made via python)
+   * Express: server (handles incoming requests and responses from the request made via python)
       
-      * Sqlite: stores logs locally (raspberry pi)
+   * Sqlite: stores logs locally (raspberry pi)
       
-      * CORS: cross origin requests, to access a different port (Node.js backend)
+   * CORS: cross origin requests, to access a different port (Node.js backend)
       
    Installed in project folder.
      
@@ -33,12 +33,12 @@ IDEs: VSC, Arduino IDE.
      
    # Frontend:
       
-      * React (node.js + npm)
+   * React (node.js + npm)
       
-      * Typescript: main logic
+   * Typescript: main logic
       
-      * Tailwind CSS: styling tool
+   * Tailwind CSS: styling tool
       
-      * Vite: build tool
+   * Vite: build tool
    
-      * Shadcn: ui components
+   * Shadcn: ui components
